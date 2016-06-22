@@ -1,7 +1,6 @@
 <?php
 class post_page_class
-{
-	
+{ 
 	function humanTiming ($time)
 	{
 	    $time = time() - $time; 
